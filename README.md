@@ -70,7 +70,6 @@ Make sure the Flask Deployment in `k8s/app.yaml` uses `flask-mongodb-app:latest`
 
 ### Optional: Push the Image to Docker Hub
 
-Replace `YOUR_DOCKERHUB_USERNAME` with your Docker Hub username:
 
 ```bash
 docker login
